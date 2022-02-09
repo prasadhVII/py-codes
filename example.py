@@ -1,5 +1,11 @@
+import random
+
+
+
+
 pi = 3.14159
-radius = 2.2
+radius = random.randint(2.0,255.0)
+print(radius) #rndom value
 # area of circle equation <- this is a comment
 area = pi*(radius**2)
 print(area)
