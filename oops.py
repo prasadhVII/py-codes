@@ -1,6 +1,6 @@
-#################
+##################
 ## EXAMPLE: simple Coordinate class
-#################
+##################
 class Coordinate(object):
     """ A coordinate made up of an x and y value """
     def __init__(self, x, y):
